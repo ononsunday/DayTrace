@@ -1,0 +1,69 @@
+{
+  "platform": "win32",
+  "qt_platform": "windows",
+  "screenshots_only_own_app": true,
+  "production_database_used": false,
+  "checks": [
+    {
+      "name": "worker_thread_running",
+      "passed": true
+    },
+    {
+      "name": "tray_available",
+      "passed": true
+    },
+    {
+      "name": "close_hides_window",
+      "passed": true
+    },
+    {
+      "name": "hidden_worker_still_running",
+      "passed": true
+    },
+    {
+      "name": "header_mode_active_applies_and_persists",
+      "passed": true
+    },
+    {
+      "name": "header_mode_foreground_applies_and_persists",
+      "passed": true
+    },
+    {
+      "name": "settings_persist_and_worker_apply",
+      "passed": true
+    },
+    {
+      "name": "two_modes_switch",
+      "passed": true
+    },
+    {
+      "name": "pause_command_reaches_worker",
+      "passed": true
+    },
+    {
+      "name": "native_page_0_renders",
+      "passed": true
+    },
+    {
+      "name": "native_page_1_renders",
+      "passed": true
+    },
+    {
+      "name": "native_page_2_renders",
+      "passed": true
+    },
+    {
+      "name": "native_page_3_renders",
+      "passed": true
+    },
+    {
+      "name": "native_page_4_renders",
+      "passed": true
+    },
+    {
+      "name": "native_page_5_renders",
+      "passed": true
+    }
+  ],
+  "passed": true
+}

@@ -1,0 +1,10 @@
+{
+  "executable": "dist/DayTrace/DayTrace.exe",
+  "production_data_used": false,
+  "passed": true,
+  "width": 1792,
+  "height": 1286,
+  "screenshot": "qa-output/frozen-ui.png",
+  "only_test_window": true,
+  "exit_code": 0
+}

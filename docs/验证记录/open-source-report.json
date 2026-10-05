@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-06",
+  "version": "1.1.1",
+  "python": "3.13.14",
+  "PySide6-Essentials": "6.11.2",
+  "PyInstaller": "6.22.3",
+  "automated_tests_passed": 129,
+  "desktop_checks_passed": 15,
+  "build_succeeded": true,
+  "frozen_program_exit_code": 0,
+  "production_data_used": false,
+  "visual_review": [
+    "six_pages_light",
+    "home_dark",
+    "small_window_home"
+  ],
+  "not_executed": [
+    "real_lock_sleep_cycle",
+    "another_computer",
+    "long_running_performance",
+    "remote_GitHub_Actions"
+  ]
+}
