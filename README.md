@@ -2,7 +2,8 @@
 
 DayTrace 是 Windows 上的本地使用时间记录工具，也能保存每天的生活日记。程序只统计前台应用，不需要账户或服务器。
 
-![DayTrace 界面](docs/界面预览.png)
+![DayTrace 界面]![Uploading image.png…]()
+
 
 ## 功能
 
