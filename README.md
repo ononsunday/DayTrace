@@ -1,4 +1,4 @@
-# DayTrace
+# DayTrace 以翁法罗斯为主题UI设计
 
 DayTrace 是 Windows 上的本地使用时间记录工具，也能保存每天的生活日记。程序只统计前台应用，不需要账户或服务器。
 
